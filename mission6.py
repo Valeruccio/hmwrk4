@@ -5,7 +5,6 @@ for el in count(3):
         break
     else:
         print(el)
-
 print()
 
 x = 0
